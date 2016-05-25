@@ -1,0 +1,22 @@
+#map {
+  height: 100%;
+  width: 100%;
+  margin: auto;
+  position: absolute;
+  z-index: -1;
+}
+
+h1 {
+  font-family: menlo;
+}
+
+header {
+background-color: transparent;
+position: absolute;
+top:10px;
+left: 40%;
+  margin: auto;
+  text-align: center;
+
+
+}

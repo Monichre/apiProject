@@ -1,0 +1,31 @@
+{
+  "name": "weather_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bower-files": "^3.13.1",
+    "browser-sync": "^2.12.8",
+    "browserify": "^13.0.1",
+    "del": "^2.2.0",
+    "express": "^4.13.4",
+    "falcor-express": "^0.1.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-jshint": "^2.0.1",
+    "gulp-uglify": "^1.5.3",
+    "gulp-util": "^3.0.7",
+    "jshint": "^2.9.2"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "falcor-express": "^0.1.2",
+    "falcor-router-demo": "^1.0.5"
+  }
+}
